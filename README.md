@@ -1,0 +1,6 @@
+- Hi, I’m Mateusz Kołodziejczyk
+- I am a person curious about the world, who likes to create something from nothing
+- My main life goal is to start using my knowledge at Junior Backend Developer position. To achieve it I've spent about 400 hours studying Java and ecosystem connected to this programming language
+- Technologies learned on basic level: Java | MySQL + JDBC | Maven | GIT
+- Technologies in my learning plan: Hibernate | Spring | Jenkins | Docker
+- Hobbies : Dancing, cycling and gym excercises
