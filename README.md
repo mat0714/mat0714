@@ -6,7 +6,7 @@
 
 :large_blue_circle: Actually I want to continue my journey with software but from other side
 
-:large_blue_circle: My main life goal is to start using my knowledge at Junior Backend Developer position
+:large_blue_circle: My main goal is to start using my knowledge at Junior Backend Developer position
 
 :large_blue_circle: Technologies I' ve learned on basic level:
 
@@ -14,7 +14,7 @@
 
 <br>
 
-### My main Projects:
+### My main projects:
 ---
 - [Simple CRM](https://github.com/mat0714/simple-crm)- Backend system for customer relationship management
 
