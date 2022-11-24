@@ -18,4 +18,4 @@
 ---
 - [Simple CRM](https://github.com/mat0714/simple-crm)- Backend system for customer relationship management
 
-- [MKBankApp2](https://github.com/mat0714/mk-bank-2)- Console application for bank accounts administation
+- [MKBankApp2](https://github.com/mat0714/mk-bank-2)- Console application for bank accounts administration
