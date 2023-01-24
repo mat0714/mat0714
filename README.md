@@ -19,3 +19,11 @@
 - [Simple CRM](https://github.com/mat0714/simple-crm)- Backend system for customer relationship management
 
 - [MKBankApp2](https://github.com/mat0714/mk-bank-2)- Console application for bank accounts administration
+
+<br>
+
+### Smaller projects (for training purposes):
+---
+- [University](https://github.com/mat0714/university)
+
+- [Geolocation](https://github.com/mat0714/geolocation)
